@@ -1,0 +1,11 @@
+Frontend library provenance
+
+These two libraries are the same public frontend files referenced by the SRM
+page at https://applications.srmist.edu.in/btech when this project was built:
+
+https://cdn.npfs.co/uploads/template/171/6209/publish/js/jquery1.12.4.min.js
+https://cdn.npfs.co/uploads/template/171/6209/publish/js/slick.min.js
+
+Original copyright/license notices are retained in the library files.
+The original application, tracking and account scripts are not executed.
+tools/runtime/srm.js reproduces only the relevant UI initialization settings.

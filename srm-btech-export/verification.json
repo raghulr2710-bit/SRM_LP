@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "checked_references": 354,
+  "assets": 110,
+  "errors": [],
+  "browser_visual_check": "Not completed: browser access host unavailable; native screenshot provider returned an unrelated application window."
+}

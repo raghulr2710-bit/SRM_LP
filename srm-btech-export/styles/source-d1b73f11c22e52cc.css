@@ -1,0 +1,1551 @@
+#tab1default > div.desktop_withoutpopup > div > a {
+  font-size: 16px;
+  color: #000;
+}
+
+/* Start form section */
+.block-class {
+  max-width: 100%;
+  background-color: #fff;
+}
+.block-class .form-control {
+  padding-left: 10px;
+}
+.block-class .input-group-btn.bs-dropdown-to-select-group {
+  padding-right: 3px !important;
+}
+.block-class .dynamic_theme_block .form-custom .form-group.StateId {
+  padding: 0 10px 0 0;
+}
+.block-class .panel,
+.block-class .panel-default > .panel-heading {
+  background-color: transparent !important;
+}
+.block-class .panel-default,
+.block-class .panel-default > .panel-heading {
+  border: none;
+  padding: 0;
+}
+.panel-default > .panel-heading {
+  font-family: "Nunito Sans", sans-serif;
+  color: #fff;
+  font-size: 24px;
+  line-height: 100%;
+}
+.form-heading {
+  /* padding-top:10px; */
+  margin: 0;
+}
+.form-block {
+  max-width: 400px;
+  min-width: 400px;
+  font-size: 12px;
+  position: absolute;
+  left: 50%;
+  margin-left: 176px;
+}
+.form-block-inner {
+  background-color: #fff;
+}
+.form-group > label {
+  font-weight: normal;
+  line-height: 18px;
+  display: none;
+}
+.form-group > label[for="termscondition"] {
+  display: block;
+}
+input[type="checkbox"] {
+  vertical-align: top;
+  margin-top: 2px;
+}
+.form-control::-moz-placeholder,
+.has-error .SumoSelect::-moz-placeholder {
+  color: #333;
+}
+.select-arrow-cust {
+  background-color: transparent;
+}
+.has-error .form-control,
+.has-error .SumoSelect {
+  border-color: #f44336;
+  box-shadow: none;
+  color: #f44336;
+}
+.has-error .form-control::-webkit-input-placeholder,
+.has-error .SumoSelect::-webkit-input-placeholder {
+  color: #f44336;
+}
+.has-error .form-control:-moz-placeholder,
+.has-error .SumoSelect:-moz-placeholder {
+  color: #f44336;
+}
+.has-error .form-control::-moz-placeholder,
+.has-error .SumoSelect::-moz-placeholder {
+  color: #f44336;
+}
+.has-error .form-control:-ms-input-placeholder,
+.has-error .SumoSelect:-ms-input-placeholder {
+  color: #f44336;
+}
+.panel.dynamic_theme_block {
+  border: none;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 0;
+  border-radius: 10px;
+}
+.panel.dynamic_theme_block .nav-tabs {
+  border: none;
+}
+.panel.dynamic_theme_block .nav > li > a {
+  padding: 5px 15px;
+  border: none;
+  font-size: 14px;
+  color: #2874f0;
+  border-bottom: 1px solid #ddd;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.panel.dynamic_theme_block .nav-tabs > li.active > a,
+.panel.dynamic_theme_block .nav-tabs > li.active > a:focus,
+.panel.dynamic_theme_block .nav-tabs > li.active > a:hover {
+  border: none;
+  background-color: #dd302e;
+  padding-right: 18px;
+  border-bottom: 1px solid #dd302e;
+  font-size: 15px;
+  padding-left: 18px;
+}
+.panel.dynamic_theme_block .nav-tabs > li > a:focus,
+.panel.dynamic_theme_block .nav-tabs > li > a:hover {
+  background-color: transparent;
+}
+.panel.dynamic_theme_block .panel-body {
+  box-shadow: 0 0 0 #fff;
+  margin-top: 8px;
+  padding: 0;
+}
+.panel.dynamic_theme_block .form-custom .Mobile .form-control,
+.panel.dynamic_theme_block .form-custom .Mobile .has-error .SumoSelect,
+.has-error .panel.dynamic_theme_block .form-custom .Mobile .SumoSelect {
+  padding: 0 0 5px;
+}
+.panel.dynamic_theme_block .or-seperator {
+  margin: 20px 0 10px;
+}
+.panel.dynamic_theme_block .form-custom {
+  max-height: 100%;
+  padding-right: 0;
+}
+.panel.dynamic_theme_block .btn-npf {
+  background-color: #03439c;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  max-width: 100%;
+  margin-top: 5px;
+  text-transform: uppercase;
+  border-radius: 0;
+  transition: 0.5s;
+  z-index: 1;
+  position: relative;
+  font-weight: 700;
+  letter-spacing: 0.5px; /* border: 1px solid #eb1b2b; */
+  border-radius: 5px;
+}
+.panel.dynamic_theme_block .btn-npf:before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background: #03439c;
+  transform: scaleX(0);
+  transition: 0.5s;
+  z-index: -1;
+}
+.panel.dynamic_theme_block .btn-npf:hover:before {
+  transform: scaleX(1);
+}
+.panel.dynamic_theme_block .btn-npf:hover,
+.panel.dynamic_theme_block .btn-npf:focus {
+  background-color: #03439c;
+  color: #fff !important;
+  border: 1px solid #fff;
+}
+.accordionStyle .panel-accordion {
+  border-radius: 0;
+  border: 1px solid #ccc;
+}
+.accordionStyle .panel-heading {
+  padding: 0;
+}
+.form-control,
+.form-control[disabled],
+.form-control[readonly],
+fieldset[disabled] .form-control,
+.input-group-btn .btn {
+  background-color: transparent;
+  border: 1px solid #e6e6e6;
+  color: #000;
+  border-radius: 0;
+}
+.dynamic_theme_block .form-control[disabled],
+.dynamic_theme_block .form-control[readonly],
+.dynamic_theme_block fieldset[disabled] .form-control {
+  background-color: transparent;
+  color: #999;
+  border: 1px solid #e6e6e6;
+  border-radius: 0;
+}
+.form-group.label-floating.Mobile.country_dial_code.reg_mobile_div span {
+  font-size: 11px;
+  color: #ff0000;
+}
+.merge_field_div {
+  margin-bottom: 15px;
+}
+.input-group .form-group {
+  vertical-align: top;
+  display: table-cell;
+}
+.form-control::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: #000;
+}
+.form-control::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #000;
+}
+.form-control:-ms-input-placeholder {
+  /* IE 10+ */
+  color: #000;
+}
+.form-control:-moz-placeholder {
+  /* Firefox 18- */
+  color: #000;
+}
+
+/** Start css for focus on input field **/
+.input-focus::-webkit-input-placeholder {
+  color: #ccc;
+}
+.input-focus::-moz-placeholder {
+  color: #ccc;
+}
+.input-focus::-ms-input-placeholder {
+  color: #ccc;
+}
+/** End css for focus on input field **/
+
+.panel.dynamic_theme_block .form-custom .Mobile .form-control,
+.panel.dynamic_theme_block .form-custom .Mobile .has-error .SumoSelect,
+.has-error .panel.dynamic_theme_block .form-custom .Mobile .SumoSelect {
+  padding: 6px 6px 6px 10px;
+}
+.dynamic_theme_block
+  .merge_field_div
+  .bs-dropdown-to-select-group
+  .bs-dropdown-to-select {
+  background-color: #fff;
+  padding: 8px 10px;
+  border-top: 1px solid #e6e6e6 !important;
+  border-right: 1px solid #e6e6e6 !important;
+  border-left: 1px solid #e6e6e6 !important;
+  border-radius: 0;
+  color: #000;
+}
+.input-group-btn:first-child > .btn,
+.input-group-btn:first-child > .btn-group {
+  margin-right: 0;
+}
+.dynamic_theme_block .form-custom .form-group.CourseId {
+  width: 50%;
+  padding: 0 10px 0 0;
+}
+.dynamic_theme_block .form-custom .agree-group .agree-condition {
+  color: #000;
+  line-height: 12px;
+  font-size: 12.4px;
+  margin-left: 5px !important;
+}
+.CountryId:before,
+.StateId:before,
+.CityId:before,
+.CourseId:before,
+.reg_specialization_id_div:before,
+.reg_university_id_div:before {
+  z-index: 1;
+  color: #000;
+  font-size: 16px;
+  margin-bottom: -10px;
+}
+.CourseId:before {
+  right: 10px !important;
+}
+.form-group.label-floating.field-select.reg_university_id_div {
+  position: relative;
+}
+.reg_university_id_div:before {
+  position: absolute;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus input:-webkit-autofill,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-text-fill-color: #000;
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+}
+
+.form-control:focus {
+  border-color: lightgrey;
+  -webkit-box-shadow:
+    inset 0 1px 1px rgba(0, 0, 0, 0.075),
+    0 0 8px rgba(211, 211, 211, 0.6);
+  box-shadow:
+    inset 0 1px 1px rgba(0, 0, 0, 0.075),
+    0 0 8px rgba(211, 211, 211, 0.6);
+}
+.form-control {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.form-custom {
+  overflow: unset;
+}
+.dynamic_theme_block .tab-pane .form-group,
+.dynamic_theme_block .form-custom .merge_field_div,
+.dynamic_theme_block .form-custom .checkbox {
+  margin-bottom: 15px;
+}
+.dynamic_theme_block .btn-register {
+  margin: 0;
+}
+.dynamic_theme_block .fpass a {
+  color: #2874f0;
+  text-transform: uppercase;
+}
+span.agree-condition {
+  color: #000;
+  font-size: 13px;
+  margin-left: 5px;
+}
+.form-group.agree-group.col-md-12.m0.has-error .help-block {
+  font-size: 11px;
+}
+.form-group.agree-group.col-md-12.m0.has-error {
+  line-height: 18px;
+}
+.StateId:before {
+  right: 20px;
+}
+.panel.dynamic_theme_block .nav > li > a[aria-expanded="true"] {
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+}
+.form-control {
+  padding: 0 5px 0px;
+  height: 38px;
+}
+.dynamic_theme_block .tab-pane .form-group {
+  margin-bottom: 10px;
+}
+.panel-default > .panel-heading {
+  margin-top: 5px;
+  display: none;
+}
+.dynamic_theme_block .form-custom .captcha {
+  margin-top: 0px;
+}
+.dynamic_theme_block .form-custom .form-group.StateId {
+  margin-top: 0px;
+}
+.dynamic_theme_block .form-custom .form-group.CityId {
+  margin-top: 0px;
+}
+.dynamic_theme_block .tab-pane .form-group,
+.dynamic_theme_block .form-custom .merge_field_div,
+.dynamic_theme_block .form-custom .checkbox {
+  margin-bottom: 5px;
+  flex-grow: 1;
+}
+.dynamic_theme_block .form-custom .checkbox {
+  margin: 5px 0 0;
+}
+input#Captcha {
+  padding: 14px 5px;
+}
+.block-class input#Captcha {
+  padding-left: 10px;
+}
+.dynamic_theme_block .form-custom .form-group.captcha-txt {
+  width: 50%;
+  padding-right: 10px;
+}
+.dynamic_theme_block .form-group.has-error .help-block {
+  color: red;
+}
+.dynamic_theme_block .form-custom .captcha {
+  width: 100%;
+  float: left;
+  padding: 0;
+  z-index: 999;
+  position: relative;
+  clear: both;
+  margin-bottom: 5px;
+}
+.dynamic_theme_block .captcha img {
+  width: 50%;
+  height: 36px;
+  float: right;
+  padding-right: 0;
+  margin-right: 0;
+}
+.dynamic_theme_block .captcha .CaptchaRefreshBtn {
+  top: 8px;
+  right: -17px;
+  color: #000;
+  border: none;
+  position: absolute;
+  background-color: #fff;
+  font-size: 0px;
+  margin-right: 20px;
+}
+.dynamic_theme_block #forgotBtn {
+  margin-top: 20px;
+}
+.form-control {
+  font-size: 13px;
+  z-index: 11;
+}
+.form-group.label-floating.Mobile.country_dial_code.reg_mobile_div.is-focused
+  .help-block {
+  display: block;
+  color: #767676;
+}
+.help-block {
+  font-size: 10px;
+}
+.form-group.label-floating.is-empty.captcha-txt.has-error .help-block {
+  margin-bottom: 10px;
+}
+.form-group.is-focused .help-block {
+  line-height: 12px;
+}
+.dynamic_theme_block .tab-content .help-block {
+  line-height: 12px;
+  font-size: 11px;
+  color: #000;
+}
+.dynamic_theme_block .form-group.has-error .help-block {
+  font-size: 11px; /* margin-top: 2px; */
+}
+input#forgetEmail {
+  margin-top: 10px;
+}
+.reg_specialization_id_div:before {
+  content: "\f107";
+  font-family: FontAwesome;
+  position: absolute;
+  right: 10px;
+  font-size: 16px;
+  color: #000;
+  top: 4px;
+}
+.reg_specialization_id_div {
+  display: inline-block;
+  width: 50%;
+  position: relative;
+}
+.Password.reg_password_div {
+  clear: both;
+}
+.block-class .dynamic_theme_block .datepicker-field .form-control[readonly] {
+  border: 1px solid #e6e6e6;
+}
+/* .form-group.label-floating.reg_email_div.Email_email .help-block {line-height: 12px !important;margin-top: 2px !important;}
+.form-group.label-floating.reg_email_div.Email_email .help-block{color: red !important;font-size: 9px;} */
+.dynamic_theme_block .tab-content {
+  line-height: 18px;
+}
+.fbLogin,
+.gpLogin {
+  padding: 5px 3px;
+  font-size: 12px;
+}
+.row.margin-top-10.margin0 .col-sm-6 {
+  width: 48%;
+  padding-right: 0;
+}
+.gpLogin {
+  padding: 5px;
+}
+#tab3default
+  > div
+  > div.form-group.agree-group.col-sm-6.col-xs-6.text-left.fpass
+  > a {
+  /* float: left; */
+}
+#tab3default
+  > div
+  > div.form-group.agree-group.col-sm-6.col-xs-6.text-right.fpass
+  > a {
+  margin-right: 0;
+}
+button#registerBtn {
+  margin-bottom: 5px;
+  background-color: #03439c;
+  color: #fff;
+  border: none;
+  text-transform: uppercase;
+}
+h2#alertTitle {
+  font-size: 22px;
+  margin: 0 auto;
+  text-align: center;
+}
+.dynamic_theme_block .CaptchaRefreshBtn:before {
+  content: "\e031";
+  font-family: "Glyphicons Halflings";
+  font-size: 14px;
+}
+.CountryId:before,
+.StateId:before,
+.CityId:before,
+.CourseId:before,
+.reg_specialization_id_div:before,
+.reg_university_id_div:before {
+  content: "";
+  border-color: transparent #a0a0a0 #a0a0a0 transparent;
+  border-style: solid;
+  border-width: 6px;
+  right: 0px;
+  bottom: 0;
+  margin-bottom: 0;
+  top: auto;
+  display: none;
+}
+.StateId:before {
+  right: 15px;
+}
+.form-group.label-floating.reg_name_div {
+  margin-top: -5px;
+}
+.site-logo {
+  padding: 4px 0;
+}
+.block-class .StateId:before {
+  right: 10px;
+}
+.help-block {
+  color: #ff0000 !important;
+}
+.fa-graduation-cap:before {
+  color: #eb1b2b;
+}
+.form-group.label-floating.has-error .help-block {
+  margin-top: 2px;
+}
+img.plane_img {
+  max-width: 12%;
+  padding-bottom: 3px;
+}
+span.apply_now {
+  padding-right: 8px;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+  font-size: 14px;
+}
+#loginBtn img {
+  max-width: 12%;
+  padding-bottom: 3px;
+}
+
+.panel.dynamic_theme_block .tab-pane .form-group.fpass a.registerYet {
+  font-size: 14px;
+  opacity: 0.8;
+  text-transform: capitalize;
+  padding-top: 4px;
+  font-weight: 600;
+}
+.panel.dynamic_theme_block .tab-pane .form-group.fpass a {
+  font-size: 14px;
+  opacity: 0.8;
+  text-transform: capitalize;
+  display: block;
+  font-weight: 600;
+}
+.form-group.agree-group.col-md-12.text-center.fpass {
+  margin-bottom: 0;
+}
+.form-group.agree-group.col-sm-6.col-xs-6.text-left.fpass {
+  margin-bottom: 0;
+}
+.form-group.agree-group.col-sm-6.col-xs-6.text-right.fpass {
+  margin-bottom: 0;
+}
+.resentVerification.text-center {
+  /* text-transform: uppercase; */
+  margin-top: 2px;
+}
+.resetVerify a {
+  font-size: 12px;
+  opacity: 0.9;
+  font-weight: 600;
+  color: #000;
+}
+.text-center.center-link a {
+  font-size: 14.5px;
+  opacity: 0.8;
+  font-weight: 600;
+}
+/** Start Strong Password Section **/
+.info-password {
+  right: 50%;
+  margin-right: -146px;
+  margin-top: 2px;
+}
+.popover {
+  font-size: 12px;
+}
+/** End Strong Password Section **/
+
+/* Start Inline class section */
+
+.inline-class {
+  max-width: 100%;
+  background-color: #fff;
+}
+.inline-class .panel,
+.inline-class .panel-default > .panel-heading {
+  background-color: transparent !important;
+  color: red !important;
+}
+.inline-class .panel.dynamic_theme_block .nav > li > a {
+  color: #2874f0;
+  border-bottom: 1px solid #ddd;
+}
+.inline-class .panel.dynamic_theme_block .nav > li > a[aria-expanded="true"] {
+  color: #fff;
+}
+.inline-class .dynamic_theme_block .fpass a {
+  color: #2874f0;
+}
+.inline-class .dynamic_theme_block .form-custom .agree-group .agree-condition {
+  color: #000;
+}
+.inline-class .form-control,
+.form-control[disabled],
+.form-control[readonly],
+fieldset[disabled] .form-control,
+.input-group-btn .btn {
+  color: #000;
+  background-color: transparent;
+  border-radius: 0;
+  border: 0;
+}
+.inline-class
+  .dynamic_theme_block
+  .merge_field_div
+  .bs-dropdown-to-select-group
+  .bs-dropdown-to-select {
+  background-color: #fff;
+  border: 0 !important;
+  border-radius: 0;
+  color: #000;
+}
+.inline-class .CountryId:before,
+.inline-class .StateId:before,
+.inline-class .CityId:before,
+.inline-class .CourseId:before,
+.inline-class .reg_specialization_id_div:before {
+  color: #000;
+  font-size: 16px;
+}
+.inline-class .dynamic_theme_block .form-control[disabled],
+.dynamic_theme_block .form-control[readonly],
+.dynamic_theme_block fieldset[disabled] .form-control {
+  background-color: transparent;
+  color: #999;
+  border: none;
+  border-bottom: 1px solid lightgrey;
+}
+.inline-class .form-control {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-bottom: 1px solid #ddd;
+}
+.inline-class
+  .dynamic_theme_block
+  .merge_field_div
+  .bs-dropdown-to-select-group {
+  border-bottom: 1px solid lightgrey;
+}
+.inline-class
+  .dynamic_theme_block
+  .merge_field_div
+  .bs-dropdown-to-select-group
+  .bs-dropdown-to-select {
+  padding: 4px 10px 4px 10px;
+}
+.inline-class .panel.dynamic_theme_block .form-custom .Mobile .form-control,
+.inline-class
+  .panel.dynamic_theme_block
+  .form-custom
+  .Mobile
+  .has-error
+  .SumoSelect,
+.inline-class
+  .has-error
+  .panel.dynamic_theme_block
+  .form-custom
+  .Mobile
+  .SumoSelect {
+  border-radius: 0;
+}
+.inline-class .form-control {
+  font-size: 13px;
+  z-index: 11;
+}
+.inline-class .panel.dynamic_theme_block {
+  padding: 8px 20px 8px 20px;
+}
+.inline-class .panel-default > .panel-heading {
+  margin-top: 5px;
+  border-bottom: unset;
+}
+.inline-class .dynamic_theme_block .tab-pane .form-group,
+.inline-class .dynamic_theme_block .form-custom .merge_field_div,
+.inline-class .dynamic_theme_block .form-custom .checkbox {
+  margin-bottom: 8px;
+}
+.inline-class span.agree-condition {
+  color: #000;
+}
+.inline-class .panel.dynamic_theme_block .nav-tabs > li.active > a,
+.inline-class .panel.dynamic_theme_block .nav-tabs > li.active > a:focus,
+.inline-class .panel.dynamic_theme_block .nav-tabs > li.active > a:hover {
+  border-bottom: 1px solid #dd302e;
+}
+.inline-class .dynamic_theme_block .form-custom .checkbox {
+  margin: 5px 0 0;
+}
+.inline-class .panel.dynamic_theme_block .form-custom {
+  max-height: 100%;
+  overflow: unset;
+}
+.inline-class
+  .form-group.label-floating.Mobile.country_dial_code.reg_mobile_div
+  .help-block {
+  position: absolute;
+  bottom: -13px;
+}
+.inline-class .has-error .form-control {
+  border-color: red;
+}
+.inline-class .form-control::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: #000;
+}
+.inline-class .form-control::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #000;
+}
+.inline-class .form-control:-ms-input-placeholder {
+  /* IE 10+ */
+  color: #000;
+}
+.inline-class .form-control:-moz-placeholder {
+  /* Firefox 18- */
+  color: #000;
+}
+/** Start css for focus on input field **/
+.inline-class .form-control.input-focus::-webkit-input-placeholder {
+  color: #ccc;
+}
+.inline-class .form-control.input-focus::-moz-input-placeholder {
+  color: #ccc;
+}
+.inline-class .form-control.input-focus::-ms-input-placeholder {
+  color: #ccc;
+}
+/** End css for focus on input field **/
+/* End inline class section */
+
+/** Start color class section **/
+.color-class {
+  background-color: #103f6d;
+}
+.color-class
+  button.btn.btn-default.dropdown-toggle.as-is.bs-dropdown-to-select {
+  background-color: #fff;
+  color: #000;
+  border-radius: 2px;
+}
+.color-class .dynamic_theme_block .form-custom .agree-group .agree-condition {
+  color: #fff;
+  font-size: 12px;
+}
+.color-class .form-control {
+  color: #000;
+  background-color: #fff;
+  border-radius: 2px;
+}
+.color-class .CountryId:before,
+.color-class .StateId:before,
+.color-class .CityId:before,
+.color-class .CourseId:before,
+.color-class .reg_specialization_id_div:before,
+.color-class .reg_university_id_div:before {
+  color: #fff;
+  z-index: 9999;
+}
+.CountryId.has-error:before,
+.StateId.has-error:before,
+.CityId.has-error:before,
+.CourseId.has-error:before,
+.reg_specialization_id_div.has-error:before,
+.reg_university_id_div.has-error:before {
+  bottom: 2px;
+}
+.color-class .reg_specialization_id_div:before {
+  color: #fff;
+}
+.color-class .panel.dynamic_theme_block .nav > li > a {
+  color: #fff;
+}
+.color-class span.agree-condition {
+  color: #fff;
+}
+.color-class .dynamic_theme_block .fpass a {
+  color: #fff;
+  font-size: 12.4px;
+}
+.color-class
+  .form-group.label-floating.Mobile.country_dial_code.reg_mobile_div
+  span {
+  color: #fff;
+  font-size: 11px;
+}
+.color-class .form-control.select-arrow-cust option {
+  color: #000;
+}
+.color-class .form-control::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: #000;
+}
+.color-class .form-control::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #000;
+}
+.color-class .form-control::-ms-input-placeholder {
+  /* IE 10+ */
+  color: #000;
+}
+.color-class .form-control::-moz-placeholder {
+  /* Firefox 18- */
+  color: #000;
+}
+.color-class .form-click {
+  background-color: #2e6a8f;
+  color: #fff;
+}
+.color-class .form-group.agree-group.col-md-12.m0.has-error .help-block {
+  color: yellow;
+  font-size: 11px;
+}
+.color-class .form-group.label-floating.reg_email_div.Email_email .help-block {
+  color: #fff !important;
+}
+.color-class .form-group.label-floating.has-error .help-block {
+  color: #fff;
+}
+.color-class
+  .form-group.label-floating.reg_email_div.Email_email.has-error
+  .help-block
+  a {
+  color: yellow;
+}
+.color-class
+  .form-group.label-floating.reg_email_div.Email_email
+  .help-block
+  a {
+  color: yellow;
+}
+.color-class .form-group.label-floating.has-error .help-block a {
+  color: yellow;
+}
+.color-class .form-group.label-floating.reg_name_div .help-block {
+  color: #fff;
+}
+.color-class
+  .form-group.label-floating.Mobile.country_dial_code.reg_mobile_div.is-focused
+  .help-block {
+  color: #fff;
+}
+.color-class .dynamic_theme_block .form-control[disabled],
+.color-class .dynamic_theme_block .form-control[readonly],
+.color-class .dynamic_theme_block fieldset[disabled] .form-control {
+  background-color: #f1f1f1;
+  color: #000;
+  border-radius: 2px;
+}
+.color-class .panel.dynamic_theme_block .form-custom .Mobile .form-control,
+.color-class
+  .panel.dynamic_theme_block
+  .form-custom
+  .Mobile
+  .has-error
+  .SumoSelect,
+.color-class
+  .has-error
+  .panel.dynamic_theme_block
+  .form-custom
+  .Mobile
+  .SumoSelect {
+  border-radius: 2px;
+}
+.color-class .dynamic_theme_block .captcha img {
+  border-radius: 2px;
+  width: 50%;
+  margin-right: 0;
+  padding-right: 0;
+  float: right;
+  height: 38px;
+}
+.color-class .dynamic_theme_block .form-custom .form-group.captcha-txt {
+  padding-left: 1px;
+}
+.color-class .fbLogin {
+  color: #fff;
+  border-color: #fff;
+}
+.color-class .gpLogin {
+  color: #fff;
+  border-color: #fff;
+}
+.color-class .inLogin {
+  font-size: 12px;
+  color: #fff;
+  border-color: #fff;
+}
+.color-class .form-heading {
+  color: #fff;
+}
+.color-class .fa-graduation-cap:before {
+  color: #fff;
+}
+.color-class .text-center.center-link a {
+  color: #fff;
+}
+.color-class .resetVerify a {
+  color: #fff;
+}
+/** End color class section **/
+/** Start css for focus on input field **/
+.color-class .form-control.input-focus::-webkit-input-placeholder {
+  color: #ccc;
+}
+.color-class .form-control.input-focus::-moz-input-placeholder {
+  color: #ccc;
+}
+.color-class .form-control.input-focus::-ms-input-placeholder {
+  color: #ccc;
+}
+/** End css for focus on input field **/
+
+/** Start color class media query for image captcha **/
+@media (max-width: 1100px) and (min-width: 400px) {
+  .color-class .dynamic_theme_block .captcha img {
+    width: 50%;
+    margin-right: 0; /* padding-right:10px; */
+  }
+  .color-class .dynamic_theme_block .form-custom .form-group.captcha-txt {
+    padding-left: 0;
+  }
+}
+/** End color class media query for image captcha **/
+
+/** Start Link-Border Class **/
+.link-border .panel.dynamic_theme_block {
+  padding: 0px 6px 6px 6px;
+}
+.link-border .panel.dynamic_theme_block .nav > li > a[aria-expanded="true"] {
+  color: #000;
+  text-shadow: unset;
+  font-size: 15px;
+  padding-bottom: 10px;
+}
+.link-border .panel.dynamic_theme_block .nav > li > a {
+  border: none;
+  color: #333131;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 15px;
+}
+.link-border .panel.dynamic_theme_block .nav-tabs > li.active > a,
+.link-border .panel.dynamic_theme_block .nav-tabs > li.active > a:focus,
+.link-border .panel.dynamic_theme_block .nav-tabs > li.active > a:hover {
+  background-color: transparent;
+  border-bottom: 2px solid #dd302e;
+}
+.link-border .panel.dynamic_theme_block .nav > li > a:hover {
+  color: #000;
+}
+.link-border .panel.dynamic_theme_block .nav-tabs > li.active > a,
+.link-border .panel.dynamic_theme_block .nav-tabs > li.active > a:focus,
+.link-border .panel.dynamic_theme_block .nav-tabs > li.active > a:hover {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+@media (max-width: 768px) {
+  .link-border .panel.dynamic_theme_block {
+    padding: 3px 15px 6px 15px;
+  }
+}
+/** End Link-Border Class **/
+
+/** Start Link-Border Class with color class **/
+.color-class.link-border
+  .panel.dynamic_theme_block
+  .nav
+  > li
+  > a[aria-expanded="true"] {
+  color: #fff;
+}
+.color-class.link-border .panel.dynamic_theme_block .nav > li > a {
+  color: #fff;
+}
+/** End Link-Border Class with color class **/
+
+/** Start css for input icons in the form **/
+
+@font-face {
+  font-family: "icomoon";
+  src: none;
+  src:
+    none format("embedded-opentype"),
+    none format("truetype"),
+    none format("woff"),
+    none format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-class .icon-name:before {
+  content: "\e903";
+}
+.icon-class .icon-Email:before {
+  content: "\e902";
+}
+.icon-class .icon-phone:before {
+  content: "\e905";
+}
+.icon-class .icon-password:before {
+  content: "\e904";
+}
+.icon-class .icon-chat:before {
+  content: "\e900";
+}
+.icon-class .icon-State--city:before {
+  content: "\e907";
+}
+.icon-class .icon-school:before {
+  content: "\e906";
+}
+.icon-class .icon-course:before {
+  content: "\e901";
+}
+
+.icon-class .field-icon:before {
+  color: #eb1b2b;
+  font-size: 13px;
+  float: left; /* width: 100%; */
+  font-weight: 700;
+}
+
+.icon-class .field-icon {
+  position: absolute;
+  margin-top: 12px;
+  padding: 0 10px 0;
+  float: left;
+  z-index: 99; /* width: 100%; */
+}
+.datepicker-field:before {
+  z-index: 9999;
+  left: 10px;
+  margin-top: -10px;
+  color: #eb1b2b;
+  font-size: 13px;
+  font-weight: 700;
+}
+input#FieldScheduleCampusDate {
+  padding-left: 30px;
+}
+/** Start Font Family for form **/
+.icon-class.formContainer {
+  font-family: "Nunito Sans", sans-serif;
+}
+/** End Font Family for form **/
+
+.icon-class #Name {
+  padding-left: 30px;
+}
+.icon-class #Email {
+  padding-left: 30px;
+}
+.icon-class button.btn.btn-default.dropdown-toggle.as-is.bs-dropdown-to-select {
+  padding-left: 30px;
+}
+.icon-class #opt_dataMobile {
+  padding-left: 30px;
+}
+.icon-class #StateId {
+  padding-left: 30px;
+}
+.icon-class #CityId {
+  padding-left: 30px;
+}
+.icon-class #loginEmail {
+  padding-left: 30px;
+}
+.icon-class #loginPassword {
+  padding-left: 30px;
+}
+.icon-class #forgetEmail {
+  padding-left: 30px;
+}
+.icon-class #resentVerificationEmail {
+  padding-left: 30px;
+}
+.icon-class #Password {
+  padding-left: 30px;
+}
+.icon-class #UniversityId {
+  padding-left: 30px;
+}
+.icon-class #CourseId {
+  padding-left: 30px;
+}
+.icon-class #SpecializationId {
+  padding-left: 30px;
+}
+.icon-class #CountryId {
+  padding-left: 30px;
+}
+/** End css for input icons in the form **/
+
+/*** Start Form float design section ***/
+
+.floatForm {
+  -webkit-transform: translateX(100%);
+  -moz-transform: translateX(100%);
+  -ms-transform: translateX(100%);
+  -o-transform: translateX(100%);
+  transform: translateX(100%);
+  -webkit-transition: all 0.8s ease 0s;
+  -ms-transition: all 0.8s ease 0s;
+  -moz-transition: all 0.8s ease 0s;
+  -o-transition: all 0.8s ease 0s;
+  transition: all 0.8s ease 0s;
+  z-index: 9999;
+  right: 0;
+  top: 100px;
+}
+.form-heading {
+  background-color: transparent;
+  color: #000; /* padding: 8px; */ /* margin: 0; */
+  font-size: 16px; /* padding-bottom: 2px; */
+}
+.floatForm.open {
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -ms-transform: translateX(0);
+  -o-transform: translateX(0);
+  transform: translateX(0);
+  top: 80px;
+}
+.form-clickOuter {
+  left: 0;
+  position: absolute;
+  top: 50%;
+  margin-top: -20px;
+  margin-left: -107px;
+  webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.form-click {
+  background-color: #dd302e;
+  color: #fff;
+  position: relative;
+  font-size: 22px;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 5px 5px 0 0;
+  border: 1px solid #fff;
+  border-bottom: none;
+}
+.form-inner {
+  position: relative;
+}
+.form-block {
+  max-width: 400px;
+  min-width: 400px;
+  font-size: 12px;
+}
+.form-block-inner {
+  background-color: #fff;
+}
+
+/*** End Form float design section ***/
+
+/* Strat footer section */
+.footer-top {
+  background-color: #f9f9f9;
+  padding: 5px 0;
+}
+/* End footer section */
+
+/** Start Form position section **/
+
+@media (min-width: 1099px) {
+  .formContainer {
+    max-width: 370px;
+    min-width: 370px;
+    z-index: 1;
+    border-radius: 5px;
+  }
+
+  .form-absolute {
+    position: absolute;
+    top: -67px;
+  }
+  .form-fixed {
+    position: fixed;
+  }
+  .form-relative {
+    position: relative;
+    top: 12px;
+  }
+  .form-position-left {
+    left: 50%;
+    margin-left: -585px;
+  }
+  .form-position-right {
+    right: 50%;
+    margin-right: -185px; /* border-radius: 5px; */
+    box-shadow: 0 0 10px #000;
+  }
+  .resentVerification.text-center {
+    /* text-transform: uppercase; */
+    margin-top: 0px; /* position: absolute; */ /* bottom: 0px; */ /* z-index: 9999; */ /* right: 20px; */
+  }
+  .center-link {
+    text-align: center;
+    display: block;
+    position: relative;
+  }
+}
+/** End Form position section **/
+
+/* Start media query for mobile view */
+
+@media (max-width: 1100px) {
+  /** Start form section **/
+  .form-control {
+    height: 38px;
+    font-size: 14px;
+  }
+  .panel.dynamic_theme_block {
+    padding: 12px;
+  }
+  .CountryId:before,
+  .StateId:before,
+  .CityId:before,
+  .CourseId:before,
+  .reg_specialization_id_div:before {
+    content: "";
+    border-color: transparent #a0a0a0 #a0a0a0 transparent;
+    border-style: solid;
+    border-width: 6px;
+    right: 0px;
+    bottom: 0;
+    margin-bottom: 0;
+    top: auto;
+  }
+  .color-class .CountryId:before,
+  .color-class .StateId:before,
+  .color-class .CityId:before,
+  .color-class .CourseId:before,
+  .color-class .reg_specialization_id_div:before {
+    border-color: transparent #a0a0a0 #a0a0a0 transparent;
+  }
+  .inline-class .StateId:before {
+    right: 15px;
+  }
+  .has-error.CountryId:before,
+  .has-error.StateId:before,
+  .has-error.CityId:before,
+  .has-error.CourseId:before,
+  .has-error.reg_specialization_id_div:before {
+    bottom: 3px;
+  }
+  .dynamic_theme_block .CaptchaRefreshBtn:before {
+    font-size: 13px;
+  }
+  .dynamic_theme_block
+    .merge_field_div
+    .bs-dropdown-to-select-group
+    .bs-dropdown-to-select {
+    padding: 8px 10px 9px 10px;
+  }
+  .dynamic_theme_block .captcha img {
+    height: 38px !important;
+  }
+  .dynamic_theme_block .captcha .CaptchaRefreshBtn {
+    top: 9px;
+  }
+  .captcha {
+    margin-bottom: 8px;
+  }
+  .fbLogin,
+  .gpLogin,
+  .color-class .inLogin {
+    font-size: 15px;
+    padding: 8px 10px;
+    text-align: center;
+  }
+  .row.margin-top-10.margin0 .col-sm-6 {
+    width: 100%;
+    padding-right: 15px;
+    text-align: center;
+  }
+  .dynamic_theme_block .form-custom .captcha {
+    margin-bottom: 14px;
+  }
+  .inline-class .panel.dynamic_theme_block {
+    padding: 15px 20px 8px 20px;
+  }
+  .text-center.center-link a {
+    font-size: 15px;
+  }
+  .resetVerify a {
+    font-size: 15px;
+  }
+  .Password.reg_password_div {
+    clear: both;
+  }
+
+  /** End form section **/
+}
+
+/* End media query for mobile view */
+
+/*new changes */
+.fade:not(.show) {
+  opacity: 1;
+}
+
+.dashboard_table thead,
+.table-bordered td,
+.table-bordered th {
+  border: 1px solid #000;
+}
+
+/** Code for Registration form compatiable for bootstrap 5 **/
+
+.open > .dropdown-menu {
+  display: block;
+}
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 160px;
+  padding: 5px 0;
+  margin: 2px 0 0;
+  font-size: 14px;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  -webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+  box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+}
+.form-group select option {
+  color: #000;
+}
+
+.beforeCImage {
+  float: right;
+  left: 50% !important;
+}
+p.verify-your-identity {
+  color: #000;
+}
+
+span#clockdivForget {
+}
+
+a#resendVerifyCodeBtn {
+  color: #fff;
+}
+
+a#registerTab {
+  color: red;
+}
+
+span#otpMsgSpan {
+  color: !important;
+}
+
+span#otpTimer {
+  color: #000 !important;
+}
+
+span#otpMsgBlock {
+  /* color: #fff !important; */
+}
+
+a#resendLoginOtp {
+  /* color: #fff !important; */
+}
+
+.modal-content {
+  margin-top: 200px;
+}
+
+button.close {
+  order: 2;
+  color: #fff;
+  opacity: 1;
+}
+
+.modal-header .close {
+  /* margin-top: -5px !important; */
+  padding: 0;
+  margin: 0;
+}
+
+#registerBtn:hover {
+  color: #fff !important;
+}
+div#SuccessPopupArea {
+  opacity: 1 !important;
+}
+
+.col-lg-8.displayContent {
+  display: flex;
+  align-items: center;
+  text-align: right;
+  color: #00000059;
+}
+.form-group input {
+  border-radius: 5px;
+  color: #252525;
+  background-color: #f2f6fa;
+  border: none;
+}
+.form-group select {
+  border-radius: 5px;
+  color: #252525;
+  background-color: #f2f6fa;
+  border: none;
+}
+#CityId {
+  border-radius: 5px;
+  color: #252525;
+  background-color: #f2f6fa;
+  border: none;
+}
+.dynamic_theme_block .merge_field_div .bs-dropdown-to-select-group {
+  margin-right: 6px !important;
+  padding: 0;
+  vertical-align: top;
+  height: 38px !important;
+}
+.dynamic_theme_block .form-custom .form-group.StateId {
+  width: 50%;
+  float: left;
+  padding: 0 10px 0 0 !important;
+  z-index: 1;
+  clear: both;
+}
+#registerForm
+  > div.form-custom
+  > div.merge_field_div
+  > div
+  > div.input-group-btn.bs-dropdown-to-select-group
+  > button {
+  border-radius: 5px !important;
+  color: #252525 !important;
+  background-color: #f2f6fa !important;
+  border: none !important;
+  height: 38px !important;
+}
+#mobileOtpDialCode > button {
+  border-radius: 5px !important;
+  color: #252525 !important;
+  background-color: #f2f6fa !important;
+  border: none !important;
+  height: 38px !important;
+}
+#otpField {
+  background-color: #f2f6fa !important;
+}
+
+#otpMsgBlock {
+  color: #05509e !important;
+}
+
+.dynamic_theme_block .btn-login {
+  background-color: #03439c;
+  border-color: #03439c;
+  color: #fff;
+  text-transform: uppercase;
+  width: 100% !important;
+}
+
+.dynamic_theme_block .btn-login:focus,
+.dynamic_theme_block .btn-login:hover {
+  color: #fff !important;
+  background-color: #03439c;
+  color: #0064b1;
+  text-decoration: none;
+  border-color: #03439c;
+}
+.with-nav-tabs a {
+  color: #03439c !important;
+}

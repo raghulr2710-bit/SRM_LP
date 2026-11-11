@@ -1,0 +1,1296 @@
+{
+  "source": "https://applications.srmist.edu.in/btech",
+  "mode": "url",
+  "profile": "srm",
+  "assets": [
+    {
+      "path": "assets/images/79ee3eb24a98d4ec2654.png",
+      "mime": "image/png",
+      "bytes": 456,
+      "sha256": "79ee3eb24a98d4ec265435eeb793e560d3e0999cc8658a465897dacdcb375316"
+    },
+    {
+      "path": "assets/images/50760b127f55e5ef1ade.png",
+      "mime": "image/png",
+      "bytes": 2300,
+      "sha256": "50760b127f55e5ef1ade48b111d3fe49f2eaa755d8c5e26095fa7ac2d34f42b4"
+    },
+    {
+      "path": "assets/images/9b3f4bf3af756637dca4.png",
+      "mime": "image/png",
+      "bytes": 707,
+      "sha256": "9b3f4bf3af756637dca4ec4df72ee9c499a4ea08651c04d854feb985e276b124"
+    },
+    {
+      "path": "assets/images/e670fdcaf8cd467a9a1a.png",
+      "mime": "image/png",
+      "bytes": 646,
+      "sha256": "e670fdcaf8cd467a9a1a67e9a5c1f73288089f59dc08031b118dc26fbd233c80"
+    },
+    {
+      "path": "assets/images/0d3c11263ba7e0e6b41b.gif",
+      "mime": "image/gif",
+      "bytes": 6931,
+      "sha256": "0d3c11263ba7e0e6b41b1e071e3bf198fd2db3445fa41d8fa152821c49307160"
+    },
+    {
+      "path": "assets/images/281ce65e5d6edfb50c5d.svg",
+      "mime": "image/svg+xml",
+      "bytes": 215,
+      "sha256": "281ce65e5d6edfb50c5d20ffe9618cf62dc7496cbc44c67197317a6e2d77d624"
+    },
+    {
+      "path": "assets/images/93ee19994358156fbbe3.svg",
+      "mime": "image/svg+xml",
+      "bytes": 134,
+      "sha256": "93ee19994358156fbbe3bcbb748f51b8d5bd6199ff589f8955eaacfa59d5cb2c"
+    },
+    {
+      "path": "assets/images/06d68b52581160609741.svg",
+      "mime": "image/svg+xml",
+      "bytes": 264,
+      "sha256": "06d68b525811606097417c9a51d972a6531dfdfd53f54bb5013e865f6b40bcb2"
+    },
+    {
+      "path": "assets/images/b87fbf1b2b78214eeaaa.svg",
+      "mime": "image/svg+xml",
+      "bytes": 168,
+      "sha256": "b87fbf1b2b78214eeaaafbaee7521c2c8c5c221082f0535394aa60e020cdc4f7"
+    },
+    {
+      "path": "assets/images/55655fba97d92d24858a.svg",
+      "mime": "image/svg+xml",
+      "bytes": 117,
+      "sha256": "55655fba97d92d24858acc83d910accec025719950f5011a334605793ac55378"
+    },
+    {
+      "path": "assets/images/7482b6eaa9a50729dc26.svg",
+      "mime": "image/svg+xml",
+      "bytes": 116,
+      "sha256": "7482b6eaa9a50729dc26bd9c4f1b37063f6f2706e340f9f7cce9e98dd68231eb"
+    },
+    {
+      "path": "assets/images/ce9705c3ee13cadddb64.svg",
+      "mime": "image/svg+xml",
+      "bytes": 215,
+      "sha256": "ce9705c3ee13cadddb64a9db6b2033a318c625e556d370f2ce3d1462e236675b"
+    },
+    {
+      "path": "assets/images/4008dda5f9b7b9355cf7.svg",
+      "mime": "image/svg+xml",
+      "bytes": 221,
+      "sha256": "4008dda5f9b7b9355cf71f51c52e8390861bef1a6b91ba495336902e2d3373af"
+    },
+    {
+      "path": "assets/images/c9701ff96675266ed2a8.svg",
+      "mime": "image/svg+xml",
+      "bytes": 156,
+      "sha256": "c9701ff96675266ed2a8c5c2086ca44d6a0338dc114fe66a58dbdea9f4182e71"
+    },
+    {
+      "path": "assets/images/8d0055e6d8cfd78504ea.svg",
+      "mime": "image/svg+xml",
+      "bytes": 157,
+      "sha256": "8d0055e6d8cfd78504ea3bfeb93b24bafd670e051503e4f69c2bd26c72148a7a"
+    },
+    {
+      "path": "assets/images/ef1955ae757c8b966c83.gif",
+      "mime": "image/gif",
+      "bytes": 42,
+      "sha256": "ef1955ae757c8b966c83248350331bd3a30f658ced11f387f8ebf05ab3368629"
+    },
+    {
+      "path": "assets/images/ef74b5775690de3ccf2f.gif",
+      "mime": "image/gif",
+      "bytes": 87191,
+      "sha256": "ef74b5775690de3ccf2f8cd50027b2f97effe5f264736232c63442585634cb3d"
+    },
+    {
+      "path": "assets/images/004cadb38a2929a7451c.gif",
+      "mime": "image/gif",
+      "bytes": 37297,
+      "sha256": "004cadb38a2929a7451c3ae04aca7a3ff26bfa4a8e8f3e1685ac10900539b014"
+    },
+    {
+      "path": "assets/images/44ce03edea650d09e438.gif",
+      "mime": "image/gif",
+      "bytes": 483622,
+      "sha256": "44ce03edea650d09e43854e536237a1b63c0f284ceaaded1337d4b36d4c9096f"
+    },
+    {
+      "path": "assets/images/07a12abee900a2a12977.gif",
+      "mime": "image/gif",
+      "bytes": 48332,
+      "sha256": "07a12abee900a2a12977231068c2a9a535db677e66b2807874c3b6ba3511c949"
+    },
+    {
+      "path": "assets/images/c7855a1b8e783324870a.gif",
+      "mime": "image/gif",
+      "bytes": 90990,
+      "sha256": "c7855a1b8e783324870a62b1f8e610bcbdbc97548d902842046ad73c91fb25fe"
+    },
+    {
+      "path": "assets/images/290637b6ab48fce2f7ef.gif",
+      "mime": "image/gif",
+      "bytes": 29483,
+      "sha256": "290637b6ab48fce2f7ef6b7696b3837b6c1fc2c7799efdd5fb0b86de76528581"
+    },
+    {
+      "path": "assets/images/8b5f40e61295063775b9.gif",
+      "mime": "image/gif",
+      "bytes": 53384,
+      "sha256": "8b5f40e61295063775b9ac82145280644be65fea58bc826457c77a2e4385678c"
+    },
+    {
+      "path": "assets/images/5ffe404a4704b21e5ee6.gif",
+      "mime": "image/gif",
+      "bytes": 47888,
+      "sha256": "5ffe404a4704b21e5ee6b1420be8313ed98cb2920fe53ab906db13917298bf59"
+    },
+    {
+      "path": "assets/images/341637c75dc75d77e725.gif",
+      "mime": "image/gif",
+      "bytes": 91458,
+      "sha256": "341637c75dc75d77e72523da8eb32ae9d216453b9f554dd984f9c004d436e390"
+    },
+    {
+      "path": "assets/images/1e9f15e5771ff7d35c8e.gif",
+      "mime": "image/gif",
+      "bytes": 251502,
+      "sha256": "1e9f15e5771ff7d35c8e715a7637feed5d77df42cc55d51ade85b6c6b80744b7"
+    },
+    {
+      "path": "assets/fonts/345d3644ef75efc6a7b3.ttf",
+      "mime": "font/ttf",
+      "bytes": 183088,
+      "sha256": "345d3644ef75efc6a7b39546a4c5f29fefeaa25a2a49774c4e747ff554305003"
+    },
+    {
+      "path": "assets/fonts/7136819b6a71f86d3797.ttf",
+      "mime": "font/ttf",
+      "bytes": 182224,
+      "sha256": "7136819b6a71f86d37978045d98c942027a9832684dd4785ce6edaedaaad92a0"
+    },
+    {
+      "path": "assets/fonts/0e5364c19f28addfe81e.ttf",
+      "mime": "font/ttf",
+      "bytes": 180524,
+      "sha256": "0e5364c19f28addfe81e6eedacfc0233cc2b14f196c0ec4364db43249825c0a5"
+    },
+    {
+      "path": "assets/fonts/d455310e3d1e4393723d.ttf",
+      "mime": "font/ttf",
+      "bytes": 178112,
+      "sha256": "d455310e3d1e4393723dbe5836cb27c351751123b89a74c7034ec60c861d5556"
+    },
+    {
+      "path": "assets/fonts/cc581d84062e9ae77b33.ttf",
+      "mime": "font/ttf",
+      "bytes": 176504,
+      "sha256": "cc581d84062e9ae77b33cc42c3eadc79e44ea845bf8bcf86af4c6f78dea20284"
+    },
+    {
+      "path": "assets/fonts/b4de1c6c4adfb29175cc.ttf",
+      "mime": "font/ttf",
+      "bytes": 174628,
+      "sha256": "b4de1c6c4adfb29175cc846d6fc80bf317f8850aef72707f74601f8910b45436"
+    },
+    {
+      "path": "assets/fonts/733b74494c0b5856045e.ttf",
+      "mime": "font/ttf",
+      "bytes": 172720,
+      "sha256": "733b74494c0b5856045e34eea8b899f02458ca8e0b7ebd2a887a86b64d99b0d0"
+    },
+    {
+      "path": "assets/fonts/8d85bdf1bf460f930b28.ttf",
+      "mime": "font/ttf",
+      "bytes": 169984,
+      "sha256": "8d85bdf1bf460f930b2845e482d6907aaa55ad704df94e6ca7971b9fdd6a8b60"
+    },
+    {
+      "path": "assets/fonts/ba96639e42ae0f89b531.ttf",
+      "mime": "font/ttf",
+      "bytes": 167692,
+      "sha256": "ba96639e42ae0f89b531e432f90e0618a23af72345e265c610ae1ea09741cbbe"
+    },
+    {
+      "path": "assets/fonts/e8ffb08eb3744757c0ca.ttf",
+      "mime": "font/ttf",
+      "bytes": 157916,
+      "sha256": "e8ffb08eb3744757c0ca87f865e6ec781ba960d6c0bbcc6821e76997e692242d"
+    },
+    {
+      "path": "assets/fonts/57543fa9733173fe1ff8.ttf",
+      "mime": "font/ttf",
+      "bytes": 157716,
+      "sha256": "57543fa9733173fe1ff8a6449018434810dda00e41c88bceaa0e30e7b2c7f349"
+    },
+    {
+      "path": "assets/fonts/da1b33b82f5fb047fc50.ttf",
+      "mime": "font/ttf",
+      "bytes": 156188,
+      "sha256": "da1b33b82f5fb047fc50970643e66a09c28787013b0c7f2b771e5465f9ee6b9e"
+    },
+    {
+      "path": "assets/fonts/cdedb1729acac414ed01.ttf",
+      "mime": "font/ttf",
+      "bytes": 154628,
+      "sha256": "cdedb1729acac414ed01744a11da7badb86adf13108e7bd3fa161b9323f7fe54"
+    },
+    {
+      "path": "assets/fonts/fcff04f4bec2b3636f05.ttf",
+      "mime": "font/ttf",
+      "bytes": 152860,
+      "sha256": "fcff04f4bec2b3636f05ed894dc1f9a752c4cb587ee49857ec7a82abaf6ca016"
+    },
+    {
+      "path": "assets/fonts/dae40ca7b35fe7501bda.ttf",
+      "mime": "font/ttf",
+      "bytes": 151516,
+      "sha256": "dae40ca7b35fe7501bda2e4140a6860b1db47330be5d3c8ab6971fd83a70e9a5"
+    },
+    {
+      "path": "assets/fonts/1984efdda0fbe207d7ac.ttf",
+      "mime": "font/ttf",
+      "bytes": 150292,
+      "sha256": "1984efdda0fbe207d7ac20feac2ba7c2768c92a90094b02a206c9d58cc30ff2e"
+    },
+    {
+      "path": "assets/fonts/5e8a5c3c2a56c3bc1b13.ttf",
+      "mime": "font/ttf",
+      "bytes": 149072,
+      "sha256": "5e8a5c3c2a56c3bc1b135645ca9637b9b64dc3fed5fbf85cb5ed144e06bb6d48"
+    },
+    {
+      "path": "assets/fonts/3a05787fc423c4d73c28.ttf",
+      "mime": "font/ttf",
+      "bytes": 147708,
+      "sha256": "3a05787fc423c4d73c2846beebb56378092f17ac6698ed54765b6ca11fabccc0"
+    },
+    {
+      "path": "assets/fonts/fe185d11a49676890d47.woff2",
+      "mime": "font/woff2",
+      "bytes": 18028,
+      "sha256": "fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c"
+    },
+    {
+      "path": "assets/images/6cda4c80d022876becad.jpg",
+      "mime": "image/jpeg",
+      "bytes": 25961,
+      "sha256": "6cda4c80d022876becadbc3aaedf9572b465ae8966ebd5497e0cd8f7a158d63f"
+    },
+    {
+      "path": "assets/images/80ff6d8e106eb35b1b74.jpg",
+      "mime": "image/jpeg",
+      "bytes": 12657,
+      "sha256": "80ff6d8e106eb35b1b7446a32622b770702d2c42d967ba540e9a734ccd93b9dc"
+    },
+    {
+      "path": "assets/images/16c6a6ed732b4db737b1.jpg",
+      "mime": "image/jpeg",
+      "bytes": 29684,
+      "sha256": "16c6a6ed732b4db737b1e458cf08c911d54db52d48dfebca57f262fba3598494"
+    },
+    {
+      "path": "assets/images/36d530a5531fa9024503.jpg",
+      "mime": "image/jpeg",
+      "bytes": 29550,
+      "sha256": "36d530a5531fa90245039783f184cace272a7e77ce5ffce559ffa44b5c47c772"
+    },
+    {
+      "path": "assets/images/d430680e8377dd3cf3ce.jpg",
+      "mime": "image/jpeg",
+      "bytes": 11234,
+      "sha256": "d430680e8377dd3cf3cee9a8c429302895a0617a0ff36aaf48f4981a3a5893c4"
+    },
+    {
+      "path": "assets/images/5c849739b79468840d0d.jpg",
+      "mime": "image/jpeg",
+      "bytes": 40836,
+      "sha256": "5c849739b79468840d0d19e985b4889b5bdde1d20f2d241ade870c1d56b6735a"
+    },
+    {
+      "path": "assets/images/ba15ab1ab7e16ffff274.jpg",
+      "mime": "image/jpeg",
+      "bytes": 48463,
+      "sha256": "ba15ab1ab7e16ffff2746b76d6c9f455d27aea42345c0232e79d6ebbe93beb2f"
+    },
+    {
+      "path": "assets/images/0b3562c08eaac7558688.svg",
+      "mime": "image/svg+xml",
+      "bytes": 345423,
+      "sha256": "0b3562c08eaac7558688bd9d1b8774d1c4ac086ab39e64cbf62681cd44c47904"
+    },
+    {
+      "path": "assets/images/d4dde87f7e8a405e01af.jpg",
+      "mime": "image/jpeg",
+      "bytes": 756418,
+      "sha256": "d4dde87f7e8a405e01af73ebebdaa0d785202d1250c2b08da68f558303541c1a"
+    },
+    {
+      "path": "assets/images/334fcfd04981d1f114d6.png",
+      "mime": "image/png",
+      "bytes": 420,
+      "sha256": "334fcfd04981d1f114d6a0b0c545216008e18b88d4a92ec64a01f4de7d15dc94"
+    },
+    {
+      "path": "assets/images/1e27d63cb3207700deaa.png",
+      "mime": "image/png",
+      "bytes": 1570,
+      "sha256": "1e27d63cb3207700deaa3857266e7c6815845f72efa29d7f21186021b1fe4844"
+    },
+    {
+      "path": "assets/media/e8fc739d72d28ee1a5a0.pdf",
+      "mime": "application/pdf",
+      "bytes": 188672,
+      "sha256": "e8fc739d72d28ee1a5a039d584b69eee2a3b3db7b37724f01d9364aa268d8de6"
+    },
+    {
+      "path": "assets/images/f5ac0c73f7d7259c2a91.png",
+      "mime": "image/png",
+      "bytes": 1713,
+      "sha256": "f5ac0c73f7d7259c2a916e8c7eb5c6090e11f5b3b0d4b08173cb1d285f27cf7a"
+    },
+    {
+      "path": "assets/images/9f4121fb1aed24512cea.png",
+      "mime": "image/png",
+      "bytes": 1363,
+      "sha256": "9f4121fb1aed24512ceaf94b3b7c8583ea2e72a0ceeea8cc88a6189bbafaba8e"
+    },
+    {
+      "path": "assets/images/4668a39d2a15269c5bbc.png",
+      "mime": "image/png",
+      "bytes": 2697,
+      "sha256": "4668a39d2a15269c5bbce19204ccfefca04ab43966b836d857199e34e708e06b"
+    },
+    {
+      "path": "assets/images/57c0e4a5cbc7b09111ec.png",
+      "mime": "image/png",
+      "bytes": 1362,
+      "sha256": "57c0e4a5cbc7b09111ecc657a73aca46528c411ec64a769c3a40ede41964d6e3"
+    },
+    {
+      "path": "assets/images/59a91576086022859dea.png",
+      "mime": "image/png",
+      "bytes": 2498,
+      "sha256": "59a91576086022859dea2ad50d034601cec235827e0e1c2b442486f8f930250e"
+    },
+    {
+      "path": "assets/images/83bb4cbef6a36cc60f7b.png",
+      "mime": "image/png",
+      "bytes": 2391,
+      "sha256": "83bb4cbef6a36cc60f7be74b2755bb626e289fbce80ab205a125c2ed96cd3833"
+    },
+    {
+      "path": "assets/images/1c7b985f68a44640de2a.png",
+      "mime": "image/png",
+      "bytes": 2956,
+      "sha256": "1c7b985f68a44640de2a61d31c91ac6aff0d756cb5a410ce88ec18f0b913ccde"
+    },
+    {
+      "path": "assets/images/d583c6fda2037ef22927.png",
+      "mime": "image/png",
+      "bytes": 16370,
+      "sha256": "d583c6fda2037ef22927b8ce459108123171f22db36380101dce711cc7edb46c"
+    },
+    {
+      "path": "assets/images/49f61da67a4cba5fe04c.png",
+      "mime": "image/png",
+      "bytes": 4808,
+      "sha256": "49f61da67a4cba5fe04ce9a96b37bc72d68189182def9937b2f46b6d08067738"
+    },
+    {
+      "path": "assets/images/a4c3f190bd7510ac99b5.png",
+      "mime": "image/png",
+      "bytes": 5895,
+      "sha256": "a4c3f190bd7510ac99b5522d81e57fef0259ff718f81b6efd21a80ac526f4ce0"
+    },
+    {
+      "path": "assets/images/20db71bfde9952ea7eb2.png",
+      "mime": "image/png",
+      "bytes": 10133,
+      "sha256": "20db71bfde9952ea7eb2bc3a8772d2aaa11d7b0bc6eb531e8e4b063fdc361402"
+    },
+    {
+      "path": "assets/images/6d9983ff2ce5166dbcb4.png",
+      "mime": "image/png",
+      "bytes": 3938,
+      "sha256": "6d9983ff2ce5166dbcb4098473d3d846d9141c68d032aabf8e6a45c825c30187"
+    },
+    {
+      "path": "assets/images/8b713efcdb9d5a780a49.png",
+      "mime": "image/png",
+      "bytes": 8408,
+      "sha256": "8b713efcdb9d5a780a495d5e483ea69f053d906d2551b756cf56e0883a1d3349"
+    },
+    {
+      "path": "assets/images/3a128582f445734a4d0c.png",
+      "mime": "image/png",
+      "bytes": 4668,
+      "sha256": "3a128582f445734a4d0c414b263d309ed55d092f6e7e9c6d185ad7ba29c946e2"
+    },
+    {
+      "path": "assets/media/0f5d8aef472c90e19078.pdf",
+      "mime": "application/pdf",
+      "bytes": 113097,
+      "sha256": "0f5d8aef472c90e19078ca2c5feb292818557c0664fc372b2569350d7d26a574"
+    },
+    {
+      "path": "assets/media/46fb6a743bf1f082ef77.pdf",
+      "mime": "application/pdf",
+      "bytes": 189103,
+      "sha256": "46fb6a743bf1f082ef772146d56c8ce37200802344983e715898c69f66aea37f"
+    },
+    {
+      "path": "assets/media/af8a053431663a7f5e90.pdf",
+      "mime": "application/pdf",
+      "bytes": 231569,
+      "sha256": "af8a053431663a7f5e90804e7a254ff623a84a1400ef19d1dc9ece7d454d862a"
+    },
+    {
+      "path": "assets/images/b25d286cb2557c4e7a02.png",
+      "mime": "image/png",
+      "bytes": 408114,
+      "sha256": "b25d286cb2557c4e7a02d77efeabf5aaa498b10a4b135ab429e4f204124a373d"
+    },
+    {
+      "path": "assets/images/18cfaeecb090ebb0dc73.png",
+      "mime": "image/png",
+      "bytes": 377469,
+      "sha256": "18cfaeecb090ebb0dc73c4fb5a319e96cef6450be4623a610f2c18f252895734"
+    },
+    {
+      "path": "assets/images/9aab2b65a38df97184fb.png",
+      "mime": "image/png",
+      "bytes": 36420,
+      "sha256": "9aab2b65a38df97184fbf37bb6eca8e1144a8148a9da21e0c1e334d379351588"
+    },
+    {
+      "path": "assets/images/237cb9290fb84ae16ff3.png",
+      "mime": "image/png",
+      "bytes": 4103,
+      "sha256": "237cb9290fb84ae16ff3ace6576de291212286a9d2e1b75f2bd3f2b61a6e0030"
+    },
+    {
+      "path": "assets/images/b2c27d836adefcec613e.png",
+      "mime": "image/png",
+      "bytes": 2126,
+      "sha256": "b2c27d836adefcec613e5dcead2c9a5659225cd3f4782403569c86e45856214f"
+    },
+    {
+      "path": "assets/images/8d25ab4453b5c1c48eb5.png",
+      "mime": "image/png",
+      "bytes": 2754,
+      "sha256": "8d25ab4453b5c1c48eb556de67cb1dacaad841cc4efce9db7cdffe1dcf76e4c5"
+    },
+    {
+      "path": "assets/images/63ee5e1a84febd49099b.png",
+      "mime": "image/png",
+      "bytes": 2747,
+      "sha256": "63ee5e1a84febd49099b753ccc76ad5c577fe08acbffac2da57bc39ba3c937d9"
+    },
+    {
+      "path": "assets/images/76f082e9a1473d773b9e.png",
+      "mime": "image/png",
+      "bytes": 4743,
+      "sha256": "76f082e9a1473d773b9e806f012e3ad1c609fde5d423039c06f64bc8a57a0451"
+    },
+    {
+      "path": "assets/images/c7de9e4b68705903f000.png",
+      "mime": "image/png",
+      "bytes": 5561,
+      "sha256": "c7de9e4b68705903f00066e152f77e9ddf9af485170a7550650d74bba13f7687"
+    },
+    {
+      "path": "assets/images/086bdff20ae0fc18f688.png",
+      "mime": "image/png",
+      "bytes": 6623,
+      "sha256": "086bdff20ae0fc18f688fc5fe843ad068661245b9edbad661aa386e37da56203"
+    },
+    {
+      "path": "assets/images/cbf26ca2ee8628e89138.png",
+      "mime": "image/png",
+      "bytes": 2238,
+      "sha256": "cbf26ca2ee8628e89138d62e821842f4c16c7d8cc11c941ab910d7a6a497beb5"
+    },
+    {
+      "path": "assets/images/2fcd0dc5d6f8ba5b58d9.png",
+      "mime": "image/png",
+      "bytes": 4802,
+      "sha256": "2fcd0dc5d6f8ba5b58d9fa39bd6d0e2de76ca7a9093e1bdabd6e1c9a0d3e4cfb"
+    },
+    {
+      "path": "assets/images/ffe4c6095d7056293d92.png",
+      "mime": "image/png",
+      "bytes": 4532,
+      "sha256": "ffe4c6095d7056293d9290e31b08d9e290d19afc68d3119c79b215e6e8dd1f41"
+    },
+    {
+      "path": "assets/images/f64369db6731080e0204.png",
+      "mime": "image/png",
+      "bytes": 3818,
+      "sha256": "f64369db6731080e020406b58257595cfb869029fb9fb0f7cec4b3cd32903fee"
+    },
+    {
+      "path": "assets/images/23ede8e713397cbc50d2.png",
+      "mime": "image/png",
+      "bytes": 2351,
+      "sha256": "23ede8e713397cbc50d2ebe429307bebd6d4302ae9a4228c2c803527fa70b7cc"
+    },
+    {
+      "path": "assets/images/edd0210774a281c3f3be.png",
+      "mime": "image/png",
+      "bytes": 2083,
+      "sha256": "edd0210774a281c3f3bed65d6f9396d659a835cd4907c1584d6c7857630f52a8"
+    },
+    {
+      "path": "assets/images/2419cf8e1efa4cf9405a.png",
+      "mime": "image/png",
+      "bytes": 3181,
+      "sha256": "2419cf8e1efa4cf9405affb0a4be6fc2c1a1f128d65d8cc595cb74afd147af03"
+    },
+    {
+      "path": "assets/images/08a09a7273fc2ff7c68f.png",
+      "mime": "image/png",
+      "bytes": 2398,
+      "sha256": "08a09a7273fc2ff7c68f5325c2fdc1a28ce0992ec8cf9a7df9de6c9d7927ee7b"
+    },
+    {
+      "path": "assets/images/fffbdf01d594508b3288.png",
+      "mime": "image/png",
+      "bytes": 3507,
+      "sha256": "fffbdf01d594508b32888f500d63eefa0b828f71ad1545556e74a2f5998aeee1"
+    },
+    {
+      "path": "assets/images/1151c97019df216b4794.png",
+      "mime": "image/png",
+      "bytes": 3328,
+      "sha256": "1151c97019df216b479457fded299e4d61fbc61477877ef4cf2d25a601f63ad7"
+    },
+    {
+      "path": "assets/images/d4e6288d22560b83dc64.png",
+      "mime": "image/png",
+      "bytes": 1655,
+      "sha256": "d4e6288d22560b83dc64672c13da1c8dad3b6eccd359a49d28a1507662e05946"
+    },
+    {
+      "path": "assets/images/e4e5249d76d09a82d338.png",
+      "mime": "image/png",
+      "bytes": 3668,
+      "sha256": "e4e5249d76d09a82d33899a1bff426ff12ee98e06a7d42bafb3fb5eded2cae05"
+    },
+    {
+      "path": "assets/images/31f52671cd7dcf2e896e.png",
+      "mime": "image/png",
+      "bytes": 3503,
+      "sha256": "31f52671cd7dcf2e896e3ee15761cbeb5b61e79d2d06fe6196deb38f2d6a3d0e"
+    },
+    {
+      "path": "assets/images/dd24a2af39f9096ebe74.png",
+      "mime": "image/png",
+      "bytes": 3465,
+      "sha256": "dd24a2af39f9096ebe744680b59fccefd67455b8b5c2aae8d1f4ae43dfdfa1fb"
+    },
+    {
+      "path": "assets/images/2fbc4aaec12ab0fb565c.png",
+      "mime": "image/png",
+      "bytes": 3811,
+      "sha256": "2fbc4aaec12ab0fb565c1d2d9fb2414cb3bbcbbecf9a82d0f70a227f084154b0"
+    },
+    {
+      "path": "assets/images/8e5b4f5f61d51fb69f3a.png",
+      "mime": "image/png",
+      "bytes": 6088,
+      "sha256": "8e5b4f5f61d51fb69f3ae690076845cc4023f8fa7ad50d6d3facaa469b9e226b"
+    },
+    {
+      "path": "assets/images/420192d68978df60e84e.png",
+      "mime": "image/png",
+      "bytes": 4412,
+      "sha256": "420192d68978df60e84e382a435f3b9e430800e3c754f81d37d9af254d4fb8c8"
+    },
+    {
+      "path": "assets/images/06121ffb9f6223710080.png",
+      "mime": "image/png",
+      "bytes": 4388,
+      "sha256": "06121ffb9f62237100809ca7296376130a66634e783d22d035df1ad1df5a878b"
+    },
+    {
+      "path": "assets/images/154152495574d1f23fb0.png",
+      "mime": "image/png",
+      "bytes": 2582,
+      "sha256": "154152495574d1f23fb04f3a1656a06bda3126f73659085dc7fb0a37642ad5e4"
+    },
+    {
+      "path": "assets/images/da789c74fd1c5e3d670e.png",
+      "mime": "image/png",
+      "bytes": 3013,
+      "sha256": "da789c74fd1c5e3d670e04afb4b6a32695f6b0bb542b408a354dacf1248973fd"
+    },
+    {
+      "path": "assets/images/1e66e775d01ae9a153b8.png",
+      "mime": "image/png",
+      "bytes": 3534,
+      "sha256": "1e66e775d01ae9a153b8dd59b396a751d0d2bc348ecfca5dfba05b04f4f88560"
+    },
+    {
+      "path": "assets/images/872fac4dbb264b6622f9.png",
+      "mime": "image/png",
+      "bytes": 4599,
+      "sha256": "872fac4dbb264b6622f9ae287db5e8b69a48e23f33e459452fc7487b03a23b59"
+    },
+    {
+      "path": "assets/images/bbc2d96377ec9c0124a4.png",
+      "mime": "image/png",
+      "bytes": 3107,
+      "sha256": "bbc2d96377ec9c0124a4680b92230bbcaaec2a1adc141d336ffc8dd5bcf43e84"
+    },
+    {
+      "path": "assets/images/1710d7720dc8cf37d2d3.png",
+      "mime": "image/png",
+      "bytes": 379,
+      "sha256": "1710d7720dc8cf37d2d32b260756b628f929607c989c88104650055f0ab8b6af"
+    },
+    {
+      "path": "assets/images/6f4e8306573518a41d65.png",
+      "mime": "image/png",
+      "bytes": 453,
+      "sha256": "6f4e8306573518a41d65405612e4db7f483e338da283a6a86dcaa03297a33cea"
+    },
+    {
+      "path": "assets/images/4d2454617999d0298ac1.png",
+      "mime": "image/png",
+      "bytes": 4405,
+      "sha256": "4d2454617999d0298ac1eec54178006e5da36affd2747c52fdb3a7ae98488b66"
+    }
+  ],
+  "embedded_frames": 0,
+  "snapshot_supplement": null,
+  "downloaded_resources": [
+    "https://applications.srmist.edu.in/btech",
+    "https://static.npfs.co/accounts/171/documents/2024/7/17/aero.png",
+    "https://applications.srmist.edu.in/uploads/template/171/6209/publish/fonts/fav_icon_srm.png",
+    "https://cdn.npfs.co/css/form.css?1792684171",
+    "https://cdn.npfs.co/img/widget/sprite.png",
+    "https://cdn.npfs.co/img/npf-sprite.png",
+    "https://cdn.npfs.co/img/loader_small.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/bootstrap.css?1731389149",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/font-awesome.css?1730980162",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/animate.css?1730980162",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/slick.css?1731992628",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/slick-theme.css?1730980162",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/ajax-loader.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/magic-slider-arrow.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/magic-slider-arrow-d.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/vertical-arrow-d.png.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/style_form.css?1761628757",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/style.css?1780393948",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/next-arrow.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/prev-arrow.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_1_normal.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_1_normal.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_1_hover.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_1_hover.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_2_normal.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_2_normal.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_2_hover.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_2_hover.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_3_normal.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_3_normal.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_3_hover.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_3_hover.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_4_normal.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_4_normal.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_4_hover.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_4_hover.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_5_normal.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_5_normal.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_5_hover.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_5_hover.gif",
+    "https://cdn.npfs.co/css/custom.css?1792684171",
+    "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE3tF.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21llEA.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLedw.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111lEA.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf",
+    "https://cdn.npfs.co/css/college/bootstrap-datetimepicker.css?1792684171",
+    "https://cdn.npfs.co/css/college/bootstrap-datepicker.css?1792684171",
+    "https://cdn.npfs.co/css/college/fonts/glyphicons-halflings-regular.woff2",
+    "https://i.ytimg.com/vi/lvDMXxpHN4c/hqdefault.jpg",
+    "https://i.ytimg.com/vi/PbKHiXsOiq8/hqdefault.jpg",
+    "https://i.ytimg.com/vi/5uO5zZVa714/hqdefault.jpg",
+    "https://i.ytimg.com/vi/f8TEQqjfT90/hqdefault.jpg",
+    "https://i.ytimg.com/vi/EYR_QPMmKU0/hqdefault.jpg",
+    "https://i.ytimg.com/vi/4c7Ob4pDYMQ/hqdefault.jpg",
+    "https://i.ytimg.com/vi/Hf4kUE8j3Do/hqdefault.jpg",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/logo_srm_admission_white.svg?1790847481",
+    "https://static.npfs.co/accounts/171/documents/2026/6/2/2b9b76adcd37424285c5d9d440c572d4_Hero-Banner-Engineering.jpg?1793603915",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/steps_arrow_icon.png?1793700015",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_notes.png?1793603937",
+    "https://webstor.srmist.edu.in/web_assets/downloads/2027/undergraduate-eligibility-2027-2028.pdf",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_round_tick.png?1730980642",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_user.png?1730980642",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_user_text.png?1730980642",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_sign.png?1730980642",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_sign_text.png?1730980642",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_netbank.png?1730980642",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_netbank_text.png?1730980642",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_naac.png?1732261912",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_mhrd.png?1732261912",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_abet.png?1732261912",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_nirt.png?1732261912",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_the.png?1732261912",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_qs.png?1732261912",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_campus.png?1793777959",
+    "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-syllabus.pdf",
+    "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-examination-pattern.pdf",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_notes.png?1793777959",
+    "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-2027-faqs.pdf",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/whysrm_banner_01.png?1733375744",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/whysrm2.png?1733375744",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/whysrm_banner_03.png?1733375744",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_codenation.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_wells.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_adobe.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_microsoft.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_amazon.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_squad.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_reverselab.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_arm.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_tcs.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_maxlinear.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_intel.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_westerndigit.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_hyperverge.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_rich.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_arista.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_google.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_atlassian.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_autodesk.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_commvault.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_kaleyra.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_infosys.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_cts.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_wipro.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_capgemini.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_morgan.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_techmahindra.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_cloudera.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_abinbev.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_landt.png?1731058638",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_aida.png?1731058638",
+    "https://static.npfs.co/accounts/171/documents/2024/11/18/logo_srm_admission_white.svg?1790850343",
+    "https://static.npfs.co/accounts/171/documents/2025/10/28/ab20f39169ae4f30afe65cd99f5165df_icon_mobile.png?1790850343",
+    "https://static.npfs.co/accounts/171/documents/2025/10/28/cdc68b679c984f309193c43cb05a69f9_icon_mail.png?1790850343",
+    "https://applications.srmist.edu.in/img/meritto-logo.png"
+  ],
+  "resource_map": {
+    "https://static.npfs.co/accounts/171/documents/2024/7/17/aero.png": "assets/images/79ee3eb24a98d4ec2654.png",
+    "https://applications.srmist.edu.in/uploads/template/171/6209/publish/fonts/fav_icon_srm.png": "assets/images/50760b127f55e5ef1ade.png",
+    "https://cdn.npfs.co/css/form.css?1792684171": "styles/source-d28c371ed51bc5e6.css",
+    "https://cdn.npfs.co/img/widget/sprite.png": "assets/images/9b3f4bf3af756637dca4.png",
+    "https://cdn.npfs.co/img/npf-sprite.png": "assets/images/e670fdcaf8cd467a9a1a.png",
+    "https://cdn.npfs.co/img/loader_small.gif": "assets/images/0d3c11263ba7e0e6b41b.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/bootstrap.css?1731389149": "styles/source-1635f116f2e799db.css",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/font-awesome.css?1730980162": "styles/source-332bc63061b486f1.css",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/animate.css?1730980162": "styles/source-5a4fec513797ac50.css",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/slick.css?1731992628": "styles/source-024de6674981b5fd.css",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/slick-theme.css?1730980162": "styles/source-8db2300ce7bcb12a.css",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/ajax-loader.gif": "assets/images/ef1955ae757c8b966c83.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/magic-slider-arrow.png": "assets/images/ef1955ae757c8b966c83.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/magic-slider-arrow-d.png": "assets/images/ef1955ae757c8b966c83.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/vertical-arrow-d.png.png": "assets/images/ef1955ae757c8b966c83.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/style_form.css?1761628757": "styles/source-d1b73f11c22e52cc.css",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/css/style.css?1780393948": "styles/source-562d13ca8842f64e.css",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/next-arrow.png": "assets/images/ef1955ae757c8b966c83.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/prev-arrow.png": "assets/images/ef1955ae757c8b966c83.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_1_normal.gif": "assets/images/ef74b5775690de3ccf2f.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_1_normal.gif": "assets/images/ef74b5775690de3ccf2f.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_1_hover.gif": "assets/images/004cadb38a2929a7451c.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_1_hover.gif": "assets/images/004cadb38a2929a7451c.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_2_normal.gif": "assets/images/44ce03edea650d09e438.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_2_normal.gif": "assets/images/44ce03edea650d09e438.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_2_hover.gif": "assets/images/07a12abee900a2a12977.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_2_hover.gif": "assets/images/07a12abee900a2a12977.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_3_normal.gif": "assets/images/c7855a1b8e783324870a.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_3_normal.gif": "assets/images/c7855a1b8e783324870a.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_3_hover.gif": "assets/images/290637b6ab48fce2f7ef.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_3_hover.gif": "assets/images/290637b6ab48fce2f7ef.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_4_normal.gif": "assets/images/8b5f40e61295063775b9.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_4_normal.gif": "assets/images/8b5f40e61295063775b9.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_4_hover.gif": "assets/images/5ffe404a4704b21e5ee6.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_4_hover.gif": "assets/images/5ffe404a4704b21e5ee6.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_5_normal.gif": "assets/images/341637c75dc75d77e725.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_5_normal.gif": "assets/images/341637c75dc75d77e725.gif",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/stepImg_5_hover.gif": "assets/images/1e9f15e5771ff7d35c8e.gif",
+    "https://static.npfs.co/accounts/171/documents/2024/12/5/stepImg_5_hover.gif": "assets/images/1e9f15e5771ff7d35c8e.gif",
+    "https://cdn.npfs.co/css/custom.css?1792684171": "styles/source-91d6d066b2966948.css",
+    "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap": "styles/source-ddb35ffa49195d98.css",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE3tF.ttf": "assets/fonts/345d3644ef75efc6a7b3.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf": "assets/fonts/7136819b6a71f86d3797.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21llEA.ttf": "assets/fonts/0e5364c19f28addfe81e.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLedw.ttf": "assets/fonts/d455310e3d1e4393723d.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf": "assets/fonts/cc581d84062e9ae77b33.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf": "assets/fonts/b4de1c6c4adfb29175cc.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf": "assets/fonts/733b74494c0b5856045e.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111lEA.ttf": "assets/fonts/8d85bdf1bf460f930b28.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf": "assets/fonts/ba96639e42ae0f89b531.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf": "assets/fonts/e8ffb08eb3744757c0ca.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf": "assets/fonts/57543fa9733173fe1ff8.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf": "assets/fonts/da1b33b82f5fb047fc50.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf": "assets/fonts/cdedb1729acac414ed01.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf": "assets/fonts/fcff04f4bec2b3636f05.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf": "assets/fonts/dae40ca7b35fe7501bda.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf": "assets/fonts/1984efdda0fbe207d7ac.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf": "assets/fonts/5e8a5c3c2a56c3bc1b13.ttf",
+    "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf": "assets/fonts/3a05787fc423c4d73c28.ttf",
+    "https://cdn.npfs.co/css/college/bootstrap-datetimepicker.css?1792684171": "styles/source-42136bf457ced2ac.css",
+    "https://cdn.npfs.co/css/college/bootstrap-datepicker.css?1792684171": "styles/source-45687df3825b7bd1.css",
+    "https://cdn.npfs.co/css/college/fonts/glyphicons-halflings-regular.woff2": "assets/fonts/fe185d11a49676890d47.woff2",
+    "https://i.ytimg.com/vi/lvDMXxpHN4c/hqdefault.jpg": "assets/images/6cda4c80d022876becad.jpg",
+    "https://i.ytimg.com/vi/PbKHiXsOiq8/hqdefault.jpg": "assets/images/80ff6d8e106eb35b1b74.jpg",
+    "https://i.ytimg.com/vi/5uO5zZVa714/hqdefault.jpg": "assets/images/16c6a6ed732b4db737b1.jpg",
+    "https://i.ytimg.com/vi/f8TEQqjfT90/hqdefault.jpg": "assets/images/36d530a5531fa9024503.jpg",
+    "https://i.ytimg.com/vi/EYR_QPMmKU0/hqdefault.jpg": "assets/images/d430680e8377dd3cf3ce.jpg",
+    "https://i.ytimg.com/vi/4c7Ob4pDYMQ/hqdefault.jpg": "assets/images/5c849739b79468840d0d.jpg",
+    "https://i.ytimg.com/vi/Hf4kUE8j3Do/hqdefault.jpg": "assets/images/ba15ab1ab7e16ffff274.jpg",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/logo_srm_admission_white.svg?1790847481": "assets/images/0b3562c08eaac7558688.svg",
+    "https://static.npfs.co/accounts/171/documents/2026/6/2/2b9b76adcd37424285c5d9d440c572d4_Hero-Banner-Engineering.jpg?1793603915": "assets/images/d4dde87f7e8a405e01af.jpg",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/steps_arrow_icon.png?1793700015": "assets/images/334fcfd04981d1f114d6.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_notes.png?1793603937": "assets/images/1e27d63cb3207700deaa.png",
+    "https://webstor.srmist.edu.in/web_assets/downloads/2027/undergraduate-eligibility-2027-2028.pdf": "assets/media/e8fc739d72d28ee1a5a0.pdf",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_round_tick.png?1730980642": "assets/images/f5ac0c73f7d7259c2a91.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_user.png?1730980642": "assets/images/9f4121fb1aed24512cea.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_user_text.png?1730980642": "assets/images/4668a39d2a15269c5bbc.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_sign.png?1730980642": "assets/images/57c0e4a5cbc7b09111ec.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_sign_text.png?1730980642": "assets/images/59a91576086022859dea.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_netbank.png?1730980642": "assets/images/83bb4cbef6a36cc60f7b.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_netbank_text.png?1730980642": "assets/images/1c7b985f68a44640de2a.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_naac.png?1732261912": "assets/images/d583c6fda2037ef22927.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_mhrd.png?1732261912": "assets/images/49f61da67a4cba5fe04c.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_abet.png?1732261912": "assets/images/a4c3f190bd7510ac99b5.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_nirt.png?1732261912": "assets/images/20db71bfde9952ea7eb2.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_the.png?1732261912": "assets/images/6d9983ff2ce5166dbcb4.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rank_logo_qs.png?1732261912": "assets/images/8b713efcdb9d5a780a49.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_campus.png?1793777959": "assets/images/3a128582f445734a4d0c.png",
+    "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-syllabus.pdf": "assets/media/0f5d8aef472c90e19078.pdf",
+    "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-examination-pattern.pdf": "assets/media/46fb6a743bf1f082ef77.pdf",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/icon_notes.png?1793777959": "assets/images/1e27d63cb3207700deaa.png",
+    "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-2027-faqs.pdf": "assets/media/af8a053431663a7f5e90.pdf",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/whysrm_banner_01.png?1733375744": "assets/images/b25d286cb2557c4e7a02.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/whysrm2.png?1733375744": "assets/images/18cfaeecb090ebb0dc73.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/whysrm_banner_03.png?1733375744": "assets/images/9aab2b65a38df97184fb.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_codenation.png?1731058638": "assets/images/237cb9290fb84ae16ff3.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_wells.png?1731058638": "assets/images/b2c27d836adefcec613e.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_adobe.png?1731058638": "assets/images/8d25ab4453b5c1c48eb5.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_microsoft.png?1731058638": "assets/images/63ee5e1a84febd49099b.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_amazon.png?1731058638": "assets/images/76f082e9a1473d773b9e.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_squad.png?1731058638": "assets/images/c7de9e4b68705903f000.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_reverselab.png?1731058638": "assets/images/086bdff20ae0fc18f688.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_arm.png?1731058638": "assets/images/cbf26ca2ee8628e89138.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_tcs.png?1731058638": "assets/images/2fcd0dc5d6f8ba5b58d9.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_maxlinear.png?1731058638": "assets/images/ffe4c6095d7056293d92.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_intel.png?1731058638": "assets/images/f64369db6731080e0204.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_westerndigit.png?1731058638": "assets/images/23ede8e713397cbc50d2.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_hyperverge.png?1731058638": "assets/images/edd0210774a281c3f3be.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_rich.png?1731058638": "assets/images/2419cf8e1efa4cf9405a.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_arista.png?1731058638": "assets/images/08a09a7273fc2ff7c68f.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_google.png?1731058638": "assets/images/fffbdf01d594508b3288.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_atlassian.png?1731058638": "assets/images/1151c97019df216b4794.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_autodesk.png?1731058638": "assets/images/d4e6288d22560b83dc64.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_commvault.png?1731058638": "assets/images/e4e5249d76d09a82d338.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_kaleyra.png?1731058638": "assets/images/31f52671cd7dcf2e896e.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_infosys.png?1731058638": "assets/images/dd24a2af39f9096ebe74.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_cts.png?1731058638": "assets/images/2fbc4aaec12ab0fb565c.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_wipro.png?1731058638": "assets/images/8e5b4f5f61d51fb69f3a.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_capgemini.png?1731058638": "assets/images/420192d68978df60e84e.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_morgan.png?1731058638": "assets/images/06121ffb9f6223710080.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_techmahindra.png?1731058638": "assets/images/154152495574d1f23fb0.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_cloudera.png?1731058638": "assets/images/da789c74fd1c5e3d670e.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_abinbev.png?1731058638": "assets/images/1e66e775d01ae9a153b8.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_landt.png?1731058638": "assets/images/872fac4dbb264b6622f9.png",
+    "https://cdn.npfs.co/uploads/template/171/6209/publish/images/rec_logo_aida.png?1731058638": "assets/images/bbc2d96377ec9c0124a4.png",
+    "https://static.npfs.co/accounts/171/documents/2024/11/18/logo_srm_admission_white.svg?1790850343": "assets/images/0b3562c08eaac7558688.svg",
+    "https://static.npfs.co/accounts/171/documents/2025/10/28/ab20f39169ae4f30afe65cd99f5165df_icon_mobile.png?1790850343": "assets/images/1710d7720dc8cf37d2d3.png",
+    "https://static.npfs.co/accounts/171/documents/2025/10/28/cdc68b679c984f309193c43cb05a69f9_icon_mail.png?1790850343": "assets/images/6f4e8306573518a41d65.png",
+    "https://applications.srmist.edu.in/img/meritto-logo.png": "assets/images/4d2454617999d0298ac1.png"
+  },
+  "capture_notes": [
+    "URL mode reads server-delivered HTML; it does not execute arbitrary application JavaScript.",
+    "For client-rendered apps use a fully loaded SingleFile capture. App-specific UI behavior still needs an adapter.",
+    "No claim of pixel-perfect rendering is made without browser visual comparison."
+  ],
+  "removed_script_tags": 54,
+  "missing_or_disabled": [
+    {
+      "kind": "link-resource",
+      "url": "https://cdn.npfs.co"
+    },
+    {
+      "kind": "link-resource",
+      "url": "//www.googleadservices.com"
+    },
+    {
+      "kind": "link-resource",
+      "url": "//connect.facebook.net"
+    },
+    {
+      "kind": "link-resource",
+      "url": "//www.facebook.com"
+    },
+    {
+      "kind": "link-resource",
+      "url": "//www.google.com"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/fontawesome-webfont.eot?",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/fontawesome-webfont.svg?v=4.7.0",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/icomoon.eot?bi9s3p",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/icomoon.eot?bi9s3p",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/icomoon.ttf?bi9s3p",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/icomoon.woff?bi9s3p",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/fonts/icomoon.svg?bi9s3p",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Regular.eot",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Regular.eot?",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Regular.woff2",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Regular.woff",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Regular.ttf",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Regular.svg",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Medium.eot",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Medium.eot?",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Medium.woff2",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Medium.woff",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Medium.ttf",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Medium.svg",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Bold.eot",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Bold.eot?",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Bold.woff2",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Bold.woff",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Bold.ttf",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-Bold.svg",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-SemiBold.eot",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-SemiBold.eot?",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-SemiBold.woff2",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-SemiBold.woff",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-SemiBold.ttf",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "css-resource",
+      "url": "https://cdn.npfs.co/uploads/template/171/6209/publish/css/fonts/Poppins-SemiBold.svg",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "kind": "link-resource",
+      "url": "/manifest.json"
+    },
+    {
+      "kind": "iframe",
+      "url": "https://www.youtube.com/embed/lvDMXxpHN4c"
+    },
+    {
+      "kind": "iframe",
+      "url": "https://www.youtube.com/embed/PbKHiXsOiq8"
+    },
+    {
+      "kind": "iframe",
+      "url": "https://www.youtube.com/embed/5uO5zZVa714"
+    },
+    {
+      "kind": "iframe",
+      "url": "https://www.youtube.com/embed/f8TEQqjfT90"
+    },
+    {
+      "kind": "iframe",
+      "url": "https://www.youtube.com/embed/EYR_QPMmKU0"
+    },
+    {
+      "kind": "iframe",
+      "url": "https://www.youtube.com/embed/4c7Ob4pDYMQ"
+    },
+    {
+      "kind": "iframe",
+      "url": "https://www.youtube.com/embed/Hf4kUE8j3Do"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:fetchProfileFromILearn(171,'Email','div.Email_email >span.help-block');"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "https://intlapplications.srmist.edu.in/international-application-form-2027"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "https://www.srmist.edu.in/admission-india/engineering/"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "https://webstor.srmist.edu.in/web_assets/downloads/2027/undergraduate-eligibility-2027-2028.pdf"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "https://webstor.srmist.edu.in/web_assets/downloads/2027/undergraduate-eligibility-2027-2028.pdf"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-syllabus.pdf"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-examination-pattern.pdf"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "https://www.srmist.edu.in/admission-india/engineering/"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "https://webstor.srmist.edu.in/web_assets/downloads/2027/srmjeee-2027-faqs.pdf"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    },
+    {
+      "kind": "outbound-link",
+      "url": "javascript:void(0);"
+    }
+  ],
+  "limitations": [
+    "Conversion cannot recover backend source, missing states or uncaptured video.",
+    "Original app scripts are removed. SRM UI uses a dedicated adapter; arbitrary app behavior needs reconstruction.",
+    "Network connections and form submission are disabled. No registration or email is sent."
+  ]
+}

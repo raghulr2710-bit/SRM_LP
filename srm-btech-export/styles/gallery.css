@@ -1,0 +1,27 @@
+body {
+  font: 15px/1.5 system-ui;
+  margin: 32px;
+  background: #edf2f7;
+  color: #163152;
+}
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+}
+figure {
+  margin: 0;
+  padding: 16px;
+  background: white;
+  border-radius: 12px;
+}
+img {
+  width: 100%;
+  height: 170px;
+  object-fit: contain;
+}
+figcaption {
+  font: 12px/1.5 monospace;
+  overflow-wrap: anywhere;
+  margin-top: 12px;
+}

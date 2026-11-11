@@ -1,0 +1,4 @@
+Upload the contents of this folder to your static hosting root.
+Open index.html through a local HTTP server to preview.
+This is a local frontend export: accounts, admissions submission, CAPTCHA verification and video streams require backend services and are not included.
+See conversion-report.json for unavailable resources. Visual pixel matching has not been verified.
